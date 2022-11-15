@@ -1,2 +1,15 @@
 # IBM-Project-17704-1659675343
 Smart Waste Management System For Metropolitan Cities
+
+
+TEAM ID:PNT2022TMID38568
+
+TEAM MEMBERS:
+
+DHARSHAN.P
+
+KARTHIK.S
+
+NITHEESHWAR.P
+
+THIYAGARAJAN.P
