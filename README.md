@@ -9,7 +9,12 @@ TEAM ID:PNT2022TMID38568
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:end-->![Technical architecture](https://user-images.githubusercontent.com/112863095/202845337-dcc532c2-c2f8-477b-b3d8-e650aba75071.gif)
+
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
+
+
+
+![Technical architecture](https://user-images.githubusercontent.com/112863095/202845344-84c626f8-c6b7-48d9-8922-c683bc3f5b3e.gif)
