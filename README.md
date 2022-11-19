@@ -18,3 +18,8 @@ TEAM ID:PNT2022TMID38568
 
 
 ![Technical architecture](https://user-images.githubusercontent.com/112863095/202845344-84c626f8-c6b7-48d9-8922-c683bc3f5b3e.gif)
+
+
+
+https://user-images.githubusercontent.com/113085660/202852170-0b0ba09e-85df-43d2-882f-6161f99fa7ce.mp4
+
