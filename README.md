@@ -23,3 +23,11 @@ TEAM ID:PNT2022TMID38568
 
 https://user-images.githubusercontent.com/113085660/202852170-0b0ba09e-85df-43d2-882f-6161f99fa7ce.mp4
 
+
+
+WEBSITE LINK:
+https://node-red-zbysx-2022-11-17.au-syd.mybluemix.net/ui/#!/0?socketid=wmG1UrsMXFoIxpRuAAB_
+
+DEMO VIDEO:
+https://youtu.be/KkCIZtj-ht8
+
